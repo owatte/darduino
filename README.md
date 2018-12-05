@@ -1,3 +1,13 @@
+## Build
+```
+user@machine:/tmp/darduino$ sudo docker build -t darduino:v1.8.7 .
+```
+## Run
+```
+./arduino.sh
+```
+
+
 Dockerized Arduino IDE
 ======================
 
